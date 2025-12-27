@@ -177,4 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Gaurav Technical**
 
-- GitHub: [@AjayGauravTechnical](https://github.com/AjayGauravTechnical)
+- GitHub: [@GauravTechnical24](https://github.com/GauravTechnical24)
