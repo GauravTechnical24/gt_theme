@@ -1,0 +1,28 @@
+name: gt_theme
+description: A production-ready Flutter theme management package with Material 3 & Cupertino support, system theme detection, light/dark mode switching, and theme persistence via SharedPreferences.
+version: 1.0.0
+homepage: https://github.com/AjayGauravTechnical/gt_theme
+repository: https://github.com/AjayGauravTechnical/gt_theme
+issue_tracker: https://github.com/AjayGauravTechnical/gt_theme/issues
+topics:
+  - theme
+  - material3
+  - cupertino
+  - dark-mode
+  - ui
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
